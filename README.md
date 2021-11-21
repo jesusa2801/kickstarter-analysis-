@@ -12,5 +12,8 @@ I preformed my analysis by setting up a pivot table to help me understand at wha
 At this point in the analysis the line graph helped me see the outcomes based on lunch dates with that information I figured out that June had the highest success rate out all the other months, and Plays in general had a higher success rate than failure rate.
 ### Outcomes Based On Goals
 After finishing with that data we could still filter out more useful information on how to set up a successful campaign using our Excel skills we managed to create filtered  data that visualized the percentage of successful, failed, and canceled plays based on the funding goal amount. We than went ahead and started a new sheet named outcome based on goals within that sheet we had a goals column that look something like this.
+#### Goals Column
 
+<img width="89" alt="goals png" src="https://user-images.githubusercontent.com/94088109/142753679-6bf5161e-ab22-403c-9893-2dd6aa874bd9.png">
 
+with that goals column
