@@ -16,4 +16,10 @@ After finishing with that data we could still filter out more useful information
 
 <img width="89" alt="goals png" src="https://user-images.githubusercontent.com/94088109/142753679-6bf5161e-ab22-403c-9893-2dd6aa874bd9.png">
 
-with that goals column
+with that goals column I intended to populate the rows with the number of successful, number of failed, and number of canceled campaigns. I than summed up all the projects and add the values to the total project’s column.
+
+![image](https://user-images.githubusercontent.com/94088109/142754056-90ea6684-f824-4dc8-b3a7-39ac15262881.png)
+
+when all that was done I calculated the percentages of the failed and successful projects and made a graph.
+
+###
