@@ -22,4 +22,14 @@ with that goals column I intended to populate the rows with the number of succes
 
 when all that was done I calculated the percentages of the failed and successful projects and made a graph.
 
-###
+### Outcomes Based On Goals Graph
+
+<img width="572" alt="png last" src="https://user-images.githubusercontent.com/94088109/142754336-c45edd3d-7161-442b-82e3-dd0d8cdc601e.png">
+
+# Trouble Shooting And Mistakes
+
+Now here’s where I had a bit of trouble, I couldn’t figure out how to apply the Countifs function and it wasn’t working, I spent hours looking for my mistake countless of YouTube video and I couldn’t figure out where I had gone wrong, I left it siting for a while and came back to it, it turns out that I had a couple of miss spelling on words like” successful” and “plays”, once I got that done the rest of the analysis was pretty much straight forward.
+
+# Conclusion
+
+With the outcomes based on goals information it tells us that the higher the goal the lower the chance of it being successful it becomes, and with the information we got from the theater chart, we can infer that June has the highest probability of it becoming successful. So if we were to gather all the info and broadcast it to the customer I would tell her to  start her kick starter with a low goal ratio and have it start in the beginnings of June.
