@@ -30,9 +30,11 @@ when all that was done I calculated the percentages of the failed and successful
 
 Now here’s where I had a bit of trouble, I couldn’t figure out how to apply the Countifs function and it wasn’t working, I spent hours looking for my mistake countless of YouTube video and I couldn’t figure out where I had gone wrong, I left it siting for a while and came back to it, it turns out that I had a couple of miss spelling on words like” successful” and “plays”, once I got that done the rest of the analysis was pretty much straight forward.
 
-### Possible tables and charts
+### Possible tables and charts and Limitations Of The Dataset
 
+One of the charts I would have liked to have in input from was the pie chart, as you can see below from the ranges 1000 to 4999 it has the biggest pool of data. I think that affects the final data point of view because as I said before the line graph shows that the lower the goal the higher the success rate is, but what the pie chart Is showing is that there’s a bigger pool of those numbers  meaning that we really can’t tell if it’s the number of successful projects or the number of project in the range of 1000 to 4999, it shows that there’s still information that should  filtered.
 
+![image](https://user-images.githubusercontent.com/94088109/142755291-ee14d441-283c-40c0-81f1-ca3a80ee942b.png)
 
 ## Conclusion
 
